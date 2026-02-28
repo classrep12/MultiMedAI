@@ -89,7 +89,7 @@ This dual mapping framework enables compatibility with modern digital health sys
 
 ## Demo Video
 
-[Download / Watch Demo Video](./Demo_Video.mp4)
+[Download / Watch Demo Video](./MultimedAI_Demo.mp4)
 
 ---
 
