@@ -2,7 +2,7 @@
 
 ## AI-Based Multimodal Radiology Analysis with ICD-11 and Ayurvedic Mapping
 
-### Demo Video : https://drive.google.com/file/d/1Uc9qes-WpJwmvJ65IlNFAsMALfAyNHas/view
+### Demo Video : [Link](https://drive.google.com/file/d/1Uc9qes-WpJwmvJ65IlNFAsMALfAyNHas/view)
 
 ---
 
@@ -86,12 +86,6 @@ This dual mapping framework enables compatibility with modern digital health sys
 - OpenCV  
 - NumPy  
 - Roboflow  
-
----
-
-## Demo Video
-
-[Download / Watch Demo Video](./MultimedAI_Demo.mp4)
 
 ---
 
