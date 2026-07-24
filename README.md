@@ -2,6 +2,8 @@
 
 ## AI-Based Multimodal Radiology Analysis with ICD-11 and Ayurvedic Mapping
 
+### Demo Video : https://drive.google.com/file/d/1Uc9qes-WpJwmvJ65IlNFAsMALfAyNHas/view
+
 ---
 
 ## Overview
